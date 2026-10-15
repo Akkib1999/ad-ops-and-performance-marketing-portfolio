@@ -5,7 +5,7 @@ A comprehensive, live Ad Ops data solution engineered to monitor pipeline teleme
 ---
 
 ## 🛠️ Interactive Assets (Live Links)
-1. **[Live Asset 1: Infrastructure Diagnostic Portal](https://lnkd.in)** — Focused on real-time pacing anomalies, tracking pixel drops, and system health.
+1. **[Live Asset 1: Infrastructure Diagnostic Portal](https://datastudio.google.com/reporting/b7a63ad7-ad5a-4fcf-80ff-27df037efba8)** — Focused on real-time pacing anomalies, tracking pixel drops, and system health.
 2. **[Live Asset 2: Multi-Platform Performance Dashboard](https://lnkd.in)** — Focused on campaign efficiency, cross-channel ROAS, and deeper funnel analytics.
 
 ---
