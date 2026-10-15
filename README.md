@@ -5,8 +5,8 @@ A comprehensive, live Ad Ops data solution engineered to monitor pipeline teleme
 ---
 
 ## 🛠️ Interactive Assets (Live Links)
-1. **[Live Asset 1: Infrastructure Diagnostic Portal]([https://google.com](https://lnkd.in/dMAG778S)** — Focused on real-time pacing anomalies, tracking pixel drops, and system health.
-2. **[Live Asset 2: Multi-Platform Performance Dashboard]([https://google.com](https://lnkd.in/dyNgmkDU)** — Focused on campaign efficiency, cross-channel ROAS, and deeper funnel analytics.
+1. **[Live Asset 1: Infrastructure Diagnostic Portal](https://lnkd.in)** — Focused on real-time pacing anomalies, tracking pixel drops, and system health.
+2. **[Live Asset 2: Multi-Platform Performance Dashboard](https://lnkd.in)** — Focused on campaign efficiency, cross-channel ROAS, and deeper funnel analytics.
 
 ---
 
@@ -16,7 +16,7 @@ A comprehensive, live Ad Ops data solution engineered to monitor pipeline teleme
 Built using a cross-channel **simulated data pipeline** designed to mimic real-world high-budget digital operations telemetry without exposing sensitive client information.
 
 ### 📷 Health Dashboard Preview
-![Health Dashboard](health_dashboard.png.png)
+![Health Dashboard](•%20health_dashboard.png.png)
 
 ### The Problem: Silent Operational Killers
 In high-budget digital operations, tracking pixels drop out unnoticed, or network delivery algorithms overspend by 25%—with performance teams often failing to catch the anomaly for up to 48 hours. This data fragmentation results in direct, unrecoverable revenue loss.
@@ -34,7 +34,7 @@ In high-budget digital operations, tracking pixels drop out unnoticed, or networ
 Engineered using a public **Kaggle multi-platform marketing dataset** containing real-world performance parameters to test deep-funnel channel efficiency at scale.
 
 ### 📷 Performance Dashboard Preview
-![Performance Dashboard](performance_dashboard.png.png)
+![Performance Dashboard](Performance_preview.png.png)
 
 ### Data Scale & Methodology
 Analyzed **1,000+ rows of multi-platform campaign data** across Google, Meta, and TikTok to decode efficiency drivers. Built with rigorous **Quality Assurance (QA) habits** where every calculated metric—including **CTR, CPA, and ROAS**—was thoroughly cross-validated against raw backend data totals before dashboard deployment.
@@ -53,4 +53,3 @@ Analyzed **1,000+ rows of multi-platform campaign data** across Google, Meta, an
 
 ---
 *Stop running manual platform audits. Build automated safety guardrails instead.*
-
