@@ -1,12 +1,13 @@
-# 📊 Automated Ad Ops System Health & Performance Suite
+# 📊 Automated Ad Ops System Health, Performance & Paid Media Suite
 
-A comprehensive, live Ad Ops data solution engineered to monitor pipeline telemetry, optimize multi-channel budgets, and deliver deep cross-platform performance insights across **Meta, Google, and TikTok**.
+A comprehensive, multi-module digital marketing operations suite engineered to monitor data pipelines, optimize cross-platform performance metrics, and build policy-compliant paid acquisition campaigns across **Meta, Google, and TikTok**.
 
 ---
 
-## 🛠️ Interactive Assets (Live Links)
-1. **[Live Asset 1: Infrastructure Diagnostic Portal](https://datastudio.google.com/reporting/b7a63ad7-ad5a-4fcf-80ff-27df037efba8)** — Focused on real-time pacing anomalies, tracking pixel drops, and system health.
-2. **[Live Asset 2: Multi-Platform Performance Dashboard](https://datastudio.google.com/reporting/3f56b884-1d36-41f1-845f-424071ce74ac)** — Focused on campaign efficiency, cross-channel ROAS, and deeper funnel analytics.
+## 🛠️ Interactive Assets & Core Modules
+1. **[Live Asset 1: Infrastructure Diagnostic Portal](https://google.com)** — Focused on real-time pacing anomalies, tracking pixel drops, and system health.
+2. **[Live Asset 2: Multi-Platform Performance Dashboard](https://google.com)** — Focused on campaign efficiency, cross-channel ROAS, and deeper funnel analytics.
+3. **Module 3: Meta Ads Campaign Architecture** — End-to-end paid acquisition design for high-intent professional programs.
 
 ---
 
@@ -45,11 +46,41 @@ Analyzed **1,000+ rows of multi-platform campaign data** across Google, Meta, an
 
 ---
 
+## 🎯 Module 3: Meta Ads Paid Acquisition Framework
+*Strategic hands-on campaign built from scratch to demonstrate full-funnel performance marketing capabilities paired with analytical data processing.*
+
+### 📷 Ad Creative & Campaign Architecture Preview
+
+| 🎨 Ad Creative Design (High CTR) | ⚙️ Budget & Schedule Configuration |
+| --- | --- |
+| ![Meta Creative](meta_creative.png) | ![Meta Budget](meta_budget.png) |
+
+| 🎯 Conversion Location Setup | 🔍 Tracking & Ad Preview |
+| --- | --- |
+| ![Meta Conversion](meta_conversion.png) | ![Meta Tracking](meta_tracking.png) |
+
+### 🛠️ Campaign Configuration & Setup Strategy
+* **Campaign Objective:** Engineered for **Traffic** optimization to drive high-intent visitors directly to a dedicated program landing page.
+* **Budget Architecture:** Configured via a controlled daily budget strategy (set at **₹800.00/day**) integrated with precision-scheduled start/end dates to maximize initial delivery efficiency.
+* **Audience Targeting Taxonomy:** Location-based targeting scaled across **India**, locking in an estimated potential reach of **466M - 549M+ users**.
+* **Ad Asset Design:** Developed native-style ad creatives encompassing high-CTR vertical image assets (optimized for Stories/Reels), engaging primary text, high-intent headlines, and action-oriented Call-to-Actions (CTAs).
+
+### ⚖️ Technical Compliance & Strategic Learnings
+* **Special Ad Category Alignment (Employment):** Successfully navigated and declared Meta's **Special Ad Category** constraints. Gained deep understanding of how platform algorithm boundaries restrict audience demographic and lookalike targeting on job/housing-related ads to structurally prevent bias.
+* **Objective Discrepancy Audits:** Mastered the structural differences between **Traffic vs. Lead Generation** objectives, specifically regarding conversion locations, CTA compatibility barriers, and mandatory Facebook Page Terms compliance.
+* **Ad Policy Enforcement:** Standardized copy and compliance guardrails to entirely avoid "guaranteed result" claims, protecting active ad accounts from automated platform flags at the initial setup stage.
+
+*(Note: Practice project — brand logos deployed strictly as design placeholder examples rather than commercial partnerships).*
+
+---
+
 ## 🛠️ Tech Stack & Technical Competencies
-* **Data Visualization:** Looker Studio (Google Data Studio)
+* **Data Visualization & Analytics:** Looker Studio (Google Data Studio)
+* **Paid Media Operations:** Meta Ads Manager (Facebook/Instagram), Audience Insights, Campaign Budget Optimization (CBO) strategy.
 * **Data Verification & QA:** Cross-validation formulas, backend data reconciliation, and audit trailing.
-* **Advanced Analytics:** Custom Fields, Conditional Formatting, and `CASE WHEN` logical expressions.
-* **Domain Expertise:** Performance Marketing Operations, Budget Pacing, Tracking Pixel Validation, Discrepancy Auditing, ROAS/CPA Optimization.
+* **Advanced Logic:** Custom Fields, Conditional Formatting, and `CASE WHEN` logical expressions.
+* **Core Domains:** Performance Marketing Strategy, Budget Pacing, Compliance Guardrails, Tracking Validation, ROAS/CPA Optimization.
 
 ---
 *Stop running manual platform audits. Build automated safety guardrails instead.*
+
